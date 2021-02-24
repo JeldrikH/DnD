@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": {"model": "jeldriks_dnd_mod:block/d20"},
+		"facing=south": {"model": "jeldriks_dnd_mod:block/d20", "y": 180},
+		"facing=east": {"model": "jeldriks_dnd_mod:block/d20", "y": 90},
+		"facing=west": {"model": "jeldriks_dnd_mod:block/d20", "y": 270}
+	}
+}

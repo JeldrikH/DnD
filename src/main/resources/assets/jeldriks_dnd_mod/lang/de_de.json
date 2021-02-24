@@ -1,0 +1,24 @@
+{
+	"item.jeldriks_dnd_mod.example_item": "Beispielitem",
+	"item.jeldriks_dnd_mod.special_item": "Spezialitem",
+	"item.jeldriks_dnd_mod.example_food": "OP Müsli",
+	"item.jeldriks_dnd_mod.water_ingot": "Wasserbarren",
+	"item.jeldriks_dnd_mod.fire_ingot": "Feuerbarren",
+	"item.jeldriks_dnd_mod.water_pickaxe": "Wasserspitzhacke",
+	"item.jeldriks_dnd_mod.fire_sword": "Feuerschwert",
+	"item.jeldriks_dnd_mod.water_helmet": "Wasserhelm",
+	"item.jeldriks_dnd_mod.water_chestplate": "Wasserbrustplatte",
+	"item.jeldriks_dnd_mod.water_leggings": "Wasserhose",
+	"item.jeldriks_dnd_mod.water_boots": "Wasserstiefel",
+	
+	"block.jeldriks_dnd_mod.example_block": "Beispielblock",
+	"block.jeldriks_dnd_mod.d20": "D20",
+	"block.jeldriks_dnd_mod.water_ore": "Wassererz",
+	"block.jeldriks_dnd_mod.fire_ore": "Feuererz",
+	"block.jeldriks_dnd_mod.quarry": "Steinbruch",
+	
+	"tooltip.special_item.advanced_tooltip": "\u00A71\u00A7lErweiterter Tooltip...",
+	"tooltip.special_item.hold_shift": "Halte\u00A7e Shift\u00A77 für mehr Informationen",
+	
+	"itemGroup.dnd": "DnD"
+}

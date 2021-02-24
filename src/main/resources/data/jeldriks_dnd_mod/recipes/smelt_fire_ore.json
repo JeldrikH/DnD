@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "jeldriks_dnd_mod:fire_ore"
+    },
+    "result": "jeldriks_dnd_mod:fire_ingot",
+    "experience": 3,
+    "cookingtime": 400
+}

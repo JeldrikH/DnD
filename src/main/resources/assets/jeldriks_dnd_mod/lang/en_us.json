@@ -1,0 +1,25 @@
+{
+	"item.jeldriks_dnd_mod.example_item": "Example Item",
+	"item.jeldriks_dnd_mod.special_item": "Special Item",
+	"item.jeldriks_dnd_mod.example_food": "OP Cereal",
+		"item.jeldriks_dnd_mod.water_ingot": "Water Ingot",
+	"item.jeldriks_dnd_mod.fire_ingot": "Fire Ingot",
+	"item.jeldriks_dnd_mod.water_pickaxe": "Water Pickaxe",
+	"item.jeldriks_dnd_mod.fire_sword": "Fire Sword",
+	"item.jeldriks_dnd_mod.water_helmet": "Water Helmet",
+	"item.jeldriks_dnd_mod.water_chestplate": "Water Chestplate",
+	"item.jeldriks_dnd_mod.water_leggings": "Water Leggings",
+	"item.jeldriks_dnd_mod.water_boots": "Water Boots",
+	
+	
+	"block.jeldriks_dnd_mod.example_block": "Example Block",
+	"block.jeldriks_dnd_mod.d20": "D20",
+	"block.jeldriks_dnd_mod.water_ore": "Water Ore",
+	"block.jeldriks_dnd_mod.fire_ore": "Fire Ore",
+	"block.jeldriks_dnd_mod.quarry": "Quarry",
+	
+	"tooltip.special_item.advanced_tooltip": "\u00A71\u00A7lAdvanced Tooltip...",
+	"tooltip.special_item.hold_shift": "Hold\u00A7e Shift\u00A77 for more information",
+	
+	"itemGroup.dnd": "DnD"
+	}

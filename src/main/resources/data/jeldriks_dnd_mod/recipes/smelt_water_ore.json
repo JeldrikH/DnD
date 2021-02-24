@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "jeldriks_dnd_mod:water_ore"
+    },
+    "result": "jeldriks_dnd_mod:water_ingot",
+    "experience": 0.1,
+    "cookingtime": 200
+}

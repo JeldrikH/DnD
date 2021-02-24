@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "jjj",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "j": {
+            "item": "jeldriks_dnd_mod:water_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "jeldriks_dnd_mod:water_pickaxe",
+        "count": 1
+    }
+}

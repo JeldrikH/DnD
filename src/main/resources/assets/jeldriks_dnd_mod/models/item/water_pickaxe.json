@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "jeldriks_dnd_mod:items/water_pickaxe"
+	}
+}

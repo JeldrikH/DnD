@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"front": "jeldriks_dnd_mod:blocks/example_block_front",
+		"top": "jeldriks_dnd_mod:blocks/example_block_top",
+		"bottom": "jeldriks_dnd_mod:blocks/example_block_bottom",
+		"side": "jeldriks_dnd_mod:blocks/example_block_side"
+	}
+}
