@@ -42,7 +42,6 @@ public class DnD {
 	}
 	
 	public static class DnDGroup extends ItemGroup {
-
 		public DnDGroup(String label) {
 			super(label);
 		}
